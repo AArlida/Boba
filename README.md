@@ -1,2 +1,2 @@
 # Boba
-Boba Game
+Boba making interactive game
